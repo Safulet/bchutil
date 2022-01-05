@@ -3,12 +3,13 @@ package bchutil
 import (
 	"bytes"
 	"encoding/hex"
+	"testing"
+
+	"github.com/binance-chain/btcutil"
+	"github.com/binance-chain/btcutil/chaincfg"
+	"github.com/binance-chain/btcutil/txscript"
 	"github.com/martinboehm/btcd/btcec"
 	"github.com/martinboehm/btcd/wire"
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/chaincfg"
-	"github.com/martinboehm/btcutil/txscript"
-	"testing"
 )
 
 type SigHashVector struct {

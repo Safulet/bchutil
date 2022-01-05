@@ -2,8 +2,9 @@ package bchutil
 
 import (
 	"errors"
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/txscript"
+
+	"github.com/binance-chain/btcutil"
+	"github.com/binance-chain/btcutil/txscript"
 )
 
 func PayToAddrScript(addr btcutil.Address) ([]byte, error) {

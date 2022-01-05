@@ -3,9 +3,10 @@ package bchutil
 import (
 	"errors"
 	"fmt"
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/chaincfg"
-	"github.com/martinboehm/btcutil/txscript"
+
+	"github.com/binance-chain/btcutil"
+	"github.com/binance-chain/btcutil/chaincfg"
+	"github.com/binance-chain/btcutil/txscript"
 	"golang.org/x/crypto/ripemd160"
 )
 

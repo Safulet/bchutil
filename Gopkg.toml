@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/martinboehm/btcutil"
+  name = "github.com/binance-chain/btcutil"
 
 [[constraint]]
   branch = "master"

@@ -9,9 +9,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/binance-chain/btcutil"
-	"github.com/binance-chain/btcutil/base58"
-	"github.com/binance-chain/btcutil/chaincfg"
+	"github.com/Safulet/btcutil"
+	"github.com/Safulet/btcutil/base58"
+	"github.com/Safulet/btcutil/chaincfg"
 	"golang.org/x/crypto/ripemd160"
 )
 

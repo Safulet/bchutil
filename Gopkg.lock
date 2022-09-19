@@ -21,7 +21,7 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/binance-chain/btcutil"
+  name = "github.com/Safulet/btcutil"
   packages = [".","base58","bech32","chaincfg","txscript"]
   revision = "224b76333062172edefdeb502123fdda12205f76"
 

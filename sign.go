@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/binance-chain/btcutil"
-	"github.com/binance-chain/btcutil/chaincfg"
-	"github.com/binance-chain/btcutil/txscript"
+	"github.com/Safulet/btcutil"
+	"github.com/Safulet/btcutil/chaincfg"
+	"github.com/Safulet/btcutil/txscript"
 	"github.com/martinboehm/btcd/btcec"
 	"github.com/martinboehm/btcd/chaincfg/chainhash"
 	"github.com/martinboehm/btcd/wire"

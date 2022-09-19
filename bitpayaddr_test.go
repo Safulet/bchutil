@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/binance-chain/btcutil"
-	"github.com/binance-chain/btcutil/chaincfg"
+	"github.com/Safulet/btcutil"
+	"github.com/Safulet/btcutil/chaincfg"
 )
 
 func TestDecodeBitpay(t *testing.T) {
